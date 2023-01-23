@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kappelo99
 - 👀 I’m interested programming.
-- 🌱 I’m currently learning Java, JavaScript.
+- 🌱 I’m currently learning Java, JavaScript, PHP, HTML, C++, Python.
 
 
