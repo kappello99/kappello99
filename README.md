@@ -2,6 +2,7 @@
 <h3 align="center">A creative developer from Poland</h3>
 
 <h3 align="left">💻 About me:</h3>
+
 - 🔭 I’m currently working on [Dream Zone](https://dzcode.eu/)
 
 - 🌱 I’m currently learning **Java, JavaScript, PHP, HTML, C++, Python**
