@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm kappelo</h1>
 <h3 align="center">A creative developer from Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kappelo" alt="kappelo" /></a> </p>
-
 - 🔭 I’m currently working on [Dream Zone](https://dzcode.eu/)
 
 - 🌱 I’m currently learning **Java, JavaScript, PHP, HTML, C++, Python**
@@ -22,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kappelo&show_icons=true&locale=en&layout=compact" alt="kappelo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kappelo&show_icons=true&locale=en" alt="kappelo" /></p>
-
