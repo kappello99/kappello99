@@ -14,7 +14,7 @@
 - 📫 How to reach me **support@dzcode.eu**
 
 # ✉ Connect with me:
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)(https://youtube.com/)
+![https://youtube.com/](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 # 🛠 Languages and Tools:
