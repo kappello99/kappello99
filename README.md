@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dream Zone](https://dzcode.eu/)
 
-- 🌱 I’m currently learning **Java, JavaScript, PHP, HTML, C++, Python**
+- 🌱 I’m currently learning **MongoDB, JavaScript, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [Discord](https://dc.dzcode.eu/)
 
