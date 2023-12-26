@@ -1,5 +1,4 @@
 <span align="center">
-  <h1 align="center">💫 About Me:</h1>
 <h1 align="center">Hi 👋, I'm kappelo</h1>
 <h3 align="center">A creative developer from Poland</h3>
 </span>
