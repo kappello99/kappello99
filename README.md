@@ -14,10 +14,8 @@
 - 📫 How to reach me **support@dzcode.eu**
 
 # ✉ Connect with me:
-<p align="left">
-<a href="https://www.youtube.com/c/kappello99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kappello99" height="30" width="40" /></a>
-<a href="https://discord.gg/MqqV9murSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MqqV9murSS" height="30" width="40" /></a>
-</p>
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)(https://youtube.com/)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 # 🛠 Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
